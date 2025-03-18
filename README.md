@@ -171,7 +171,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>As of today, 01.04.18, this is the most serious vulnerability of the secp256k1 curve and sooner or later the victory will be for AI.</p>
+<p>As of today, this is the most serious vulnerability of the secp256k1 curve and sooner or later the victory will be for AI.</p>
 <!-- /wp:paragraph -->
 
 
